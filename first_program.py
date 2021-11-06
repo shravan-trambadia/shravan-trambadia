@@ -1,2 +1,2 @@
 a = 10
-print('I have ' , a, '$.')
+print('I have ' , a, '$...')
